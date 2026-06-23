@@ -1,0 +1,7 @@
+{
+    "keys": {
+        "GAG-OWNER-FOREVER": { "expires": "2099-12-31", "hwid": "", "note": "Owner - mọi thiết bị" },
+        "GAG-TEST-3D": { "expires": "2026-06-30", "hwid": "", "note": "Test 7 ngày - mọi thiết bị" },
+        "GAG23AEAYA23": { "expires": "2026-07-25", "hwid": "", "note": "VIP 30 ngày - mọi thiết bị" }
+    }
+}
